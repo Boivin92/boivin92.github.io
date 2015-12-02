@@ -1,0 +1,34 @@
+# Empty CSS file for your own CSS
+
+img {
+	width:100%;
+	background:black;
+}
+
+.img-circle{
+	transition: all 0.5s ease;
+}
+
+.img-circle:hover{
+	border-radius: 30%;
+}
+
+h3 {
+	text-align:center;
+	font-weight:bold;
+}
+
+h4 {
+	text-align:center;
+	font-weight:bold;
+	text-size: 18px;
+}
+
+.container-fluid{
+	background:lightgray;
+	padding-right: 25px;
+    padding-left: 25px;
+    margin-right: 20%;
+    margin-left: 20%;
+	padding-bottom: 65px;
+}
