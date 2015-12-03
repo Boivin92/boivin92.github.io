@@ -36,8 +36,8 @@ h4 {
 	background:lightgray;
 	padding-right: 25px;
     padding-left: 25px;
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 25%;
+    margin-left: 25%;
 	padding-bottom: 65px;
 }
 
@@ -46,4 +46,10 @@ dt {
     margin-top: 10px;
     color: darkmagenta;
     font-size: medium;
+}
+
+.elephant{
+	width:50%;
+	margin-left:25%;
+	border-radius: 30%;
 }
