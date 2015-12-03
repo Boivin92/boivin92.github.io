@@ -39,6 +39,9 @@ h4 {
     margin-right: 25%;
     margin-left: 25%;
 	padding-bottom: 65px;
+	border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 15px;
 }
 
 dt {
