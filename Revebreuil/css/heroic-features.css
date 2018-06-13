@@ -37,3 +37,7 @@ body {
 .col-md-5 {
 	color: lightgray;
 }
+
+.jumbotron {
+	background-color: lightgray;
+}
